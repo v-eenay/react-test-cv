@@ -1,0 +1,267 @@
+{
+  "main": {
+    "name": "Vinay Koirala",
+    "description": "I enjoy exploring computing, and I spice things up with my love for acting and music while teaching cool tech stuff to my students!",
+    "image": "profilepic.jpg",
+    "bio": "Hey there, I'm Vinay Koirala, currently juggling the role of IT Lecturer at Itahari International College. Armed with a degree in Computer Science Engineering and an MBA, I bring a tech-savvy meets business-minded approach to the table. When not wrangling code in the classroom, you'll find me moonlighting as an actor with Kalalaya Itahari or attempting to coax music out of my guitar with mixed success. JAVA, JAVASCRIPT, C, C++, and Python are my go-to tools for navigating the digital realm. This website? Born out of sheer boredom, it's a showcase of the coding symphony I've curated. Feel free to dive in, and let's keep the tech chatter both detailed and amusing!",
+    "contactmessage": "If you're as tired of monotony as I am, let's break the boredom together! Whether you have burning questions about tech, want to discuss the latest acting gig, or need a guitar strumming companion (even if it's just virtually), drop me a line. I'm all ears for engaging conversations and exciting collaborations.",
+    "email": "koiralavinay@gmail.com",
+    "phone": "+977-9862035470",
+    "github": "https://github.com/v-eenay",
+    "project": "https://www.facebook.com/who.is.vinay",
+    "address": {
+      "street": "Subidhanagar",
+      "city": "Itahari",
+      "state": "Koshi",
+      "zip": "56705"
+    },
+    "website": "https://www.veenay.com.np",
+    "resumedownload": "https://www.veenay.com.np",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/who.is.vinay",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/veenay/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_veenay/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/v-eenay",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I wield a wizardry of tech skills, transforming codes into poetry. From teaching the digital dance to orchestrating ad symphonies, I'm the maestro you didn't know you needed. Let's make the tech world our stage!",
+    "education": [
+      {
+        "school": "Lincoln University",
+        "degree": "Masters of Business Administration",
+        "graduated": "January, 2022",
+        "description": "Enduring MBA classes, I mastered strategic thinking and business acumen, but the perpetual boredom added a touch of resilience to my skill set."
+      },
+      {
+        "school": "Aryabhatta Knowledge University",
+        "degree": "B. Tech - Computer Science Engineering",
+        "graduated": "May, 2018",
+        "description": "During my engineering course, I navigated the diverse realms of JAVA, JAVASCRIPT, C, C++, and Python, turning moments of uncertainty and boredom into opportunities for learning and growth."
+      }
+    ],
+    "trainings": [
+      {
+        "course": "Advanced Java Programming",
+        "institute": "Broadway Infosys",
+        "year": "2017"
+      },
+      {
+        "course": "Diploma in web programming",
+        "institute": "Computer Point Nepal",
+        "year": "2013"
+      }
+    ],
+    "projects": [
+      {
+        "details": "Project on “Online Digital Library” for the partial fulfillment of B.Tech Computer Science Engineering",
+        "year": "2018"
+      },
+      {
+        "details": "Project on “The impact of personalized marketing on growing advertising reach of local business” for the partial fulfillment of M.B.A.",
+        "year": "2018"
+      }
+    ],
+    "work": [
+      {
+        "company": "Itahari International College",
+        "title": "IT Lecturer",
+        "years": "July, 2023 - Present",
+        "description": "As the IT Lecturer at Itahari International College, I've been enlightening minds on Information Systems and the ABCs of Computing."
+      },
+      {
+        "company": "Gokyo International College",
+        "title": "Teacher",
+        "years": "June, 2022 - April, 2023",
+        "description": "At Gokyo International School, I wore the teacher's hat, unraveling the mysteries of science and computer science for eager minds."
+      },
+      {
+        "company": "Good Luck Education and Training Center",
+        "title": "Computer Instructor",
+        "years": "Feb, 2021 - Feb, 2022",
+        "description": "I unleashed the geeky goodness as a maestro of computer wizardry at Good Luck Education and Training Center, turning tech novices into digital daredevils!"
+      },
+      {
+        "company": "Namaste F.M.",
+        "title": "Production Manager",
+        "years": "Feb, 2019 - Jan, 2021",
+        "description": "As the maestro of the airwaves at Namaste F.M., I orchestrated the symphony of advertisement creation. From charming clients to finalizing ads, I ensured every note resonated in perfect harmony."
+      }
+    ],
+    "skills": [
+      {
+        "name": "C",
+        "level": "70%"
+      },
+      {
+        "name": "C++",
+        "level": "65%"
+      },
+      {
+        "name": "JAVA",
+        "level": "75%"
+      },
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "React",
+        "level": "65%"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Nepali",
+        "level": "90%"
+      },
+      {
+        "name": "English",
+        "level": "85%"
+      },
+      {
+        "name": "Hindi",
+        "level": "80%"
+      }
+    ],
+    "softskills": [
+      {
+        "name": "Conversationalist",
+        "level": "90%"
+      },
+      {
+        "name": "Collaborator",
+        "level": "80%"
+      },
+      {
+        "name": "Versatile",
+        "level": "88%"
+      },
+      {
+        "name": "Efficient",
+        "level": "80%"
+      },
+      {
+        "name": "QuickStudy",
+        "level": "92%"
+      },
+      {
+        "name": "Innovator",
+        "level": "95%"
+      },
+      {
+        "name": "Trailblazer",
+        "level": "80%"
+      },
+      {
+        "name": "Imaginator",
+        "level": "89%"
+      },
+      {
+        "name": "Connector",
+        "level": "82%"
+      },
+      {
+        "name": "Showcaser",
+        "level": "98%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Dramatic Duo",
+        "description": "Stealing the show at the National Theater Festival with my partner in crime—where the stage is our playground and boredom is just another curtain call.",
+        "image": "01.jpg"
+      },
+      {
+        "title": "Grandpa Chronicles",
+        "description": "Transforming into the wise old soul for 'Kinara,' where age is just a role, and every line is a page from the grandpa's playbook.",
+        "image": "02.jpg"
+      },
+      {
+        "title": "Theatrical Time Warp",
+        "description": "A metamorphosis at the National Theater Festival—where makeup defies age, and I morph into rugged wisdom under the spotlight's embrace.",
+        "image": "03.jpg"
+      },
+      {
+        "title": "Script Maestro",
+        "description": "Commanding the stage as the anchor of the drama show, where every word is a cue.",
+        "image": "04.jpg"
+      },
+      {
+        "title": "Grit in the Frame",
+        "description": "Channeling my inner gangster in the short film 'Akkade,' where boredom takes a backseat, and I step into the shoes of the silver screen underworld.",
+        "image": "05.jpg"
+      },
+      {
+        "title": "Director's Delight",
+        "description": "Radiant smiles take center stage as the curtains close on 'Katha Man Vari Ko,' a play where boredom met its match under my directorial wand.",
+        "image": "06.jpg"
+      },
+      {
+        "title": "Heartstring Finale",
+        "description": "Caught in the bittersweet embrace of 'Refund's' sorrowful climax, where every scene whispered melancholy, and emotions took center stage.",
+        "image": "07.jpg"
+      },
+      {
+        "title": "Meat Lover's Retreat",
+        "description": "Indulging my carnivorous cravings at Sesehang, where every bite is a symphony of flavors, and boredom meets its match in a plate of succulent delight.",
+        "image": "08.jpg"
+      },
+      {
+        "title": "Nepali Babu Chronicles",
+        "description": "Embracing the cultural charisma in a classic Daura Suruwal, where tradition meets a touch of my own flair.",
+        "image": "09.jpg"
+      },
+      {
+        "title": "Spur-of-the-Moment Elegance",
+        "description": "Clicked on a whim, because sometimes you just have to appreciate the 'looking good' vibes, making the ordinary moment extraordinary.",
+        "image": "10.jpg"
+      },
+      {
+        "title": "Short Hair Swagger",
+        "description": "Rocking the short hair vibe and proving that style knows no length—because looking good is a perpetual state of being.",
+        "image": "11.jpg"
+      },
+      {
+        "title": "Degree Unlocked",
+        "description": "Snapping a triumphant selfie with the engineering degree—where hard work meets pixels, and the journey from student to graduate deserves a photographic celebration.",
+        "image": "12.jpg"
+      }
+    ]
+  }
+}
